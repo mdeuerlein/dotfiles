@@ -25,3 +25,29 @@ brew install wget
 # Remove outdated versions from the cellar.
 brew cleanup
 
+# General Tools
+brew install --cask alfred
+brew install --cask dropbox
+brew install --cask setapp
+brew install --cask 1password
+brew install --cask google-chrome
+brew install --cask rescuetime
+brew install --cask iterm2
+
+# Audio, Video & Streaming
+
+brew install --cask spotify
+brew install --cask ob
+brew install --cask obs-ndi
+brew install --cask obs-virtualcam
+brew install --cask obs-websocket
+
+
+# Developer Tools 
+brew install --cask font-inconsolata
+brew install --cask tower
+brew install --cask microsoft-azure-storage-explorer
+brew install --cask visual-studio-code
+
+brew cleanup
+
