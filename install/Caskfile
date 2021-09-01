@@ -1,3 +1,4 @@
+
 tap "homebrew/cask"
 tap "homebrew/cask-drivers"
 tap "homebrew/cask-fonts"
@@ -9,8 +10,11 @@ cask "dropbox"
 cask "setapp"
 cask "1password"
 cask "google-chrome"
+cask rescuetime
+cask iterm2
 
 # Audio, Video & Streaming
+
 cask "spotify"
 cask "obs
 cask "obs-ndi"
