@@ -3,28 +3,23 @@ tap "homebrew/cask-drivers"
 tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
 
-cask "dropbox"
-cask "font-inconsolata"
-cask "spotify"
+# General Tools
 cask "alfred"
+cask "dropbox"
 cask "setapp"
+cask "1password"
+cask "google-chrome"
+
+# Audio, Video & Streaming
+cask "spotify"
 cask "obs
 cask "obs-ndi"
 cask "obs-virtualcam"
 cask "obs-websocket"
-cask "google-chrome"
+
+
+# Developer Tools 
+cask "font-inconsolata"
 cask "tower"
-cask "1password"
 cask "microsoft-azure-storage-explorer"
-
 cask "visual-studio-code"
-
-# Quick Look Plugins (https://github.com/sindresorhus/quick-look-plugins)
-cask "qlcolorcode"
-cask "qlstephen"
-cask "qlmarkdown"
-cask "quicklook-json"
-cask "qlimagesize"
-cask "suspicious-package"
-cask "quicklookase"
-cask "qlvideo"
