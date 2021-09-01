@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh
+
 # Install command-line tools using Homebrew.
 # Make sure we’re using the latest Homebrew.
 
